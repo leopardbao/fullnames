@@ -1,0 +1,18 @@
+.group {
+    display: flex;
+    margin: 10px;
+}
+
+.center {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.button {
+    margin-right: 20px;
+}
+
+.nav {
+    background-color: white;
+    width: 100%;
+}
